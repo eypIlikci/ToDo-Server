@@ -11,7 +11,7 @@ ToDo Server, [ToDo-MobileApp](https://github.com/eypIlikci/ToDo-MobileApp) proje
 ## Çalıştırmadan Önce
 - Kurulacak makinada PostgreSql server olması gerekiyor ve 'todo' adında veritabanı oluşturulmalı
 - Veritabanı server kullanıcı adı ve şifresi application.properties dosyasında belirtilmeli
-- Uygulama '8080' numaralı port da çalışıyor. Bu port çalışma anında boş olmalı
+- Uygulama '8080' numaralı port da çalışıyor. Bu port boş olmalı
 
 ## İndirme Ve Çalıştırma
 - > $ git clone https://github.com/eypIlikci/ToDo-Server.git
